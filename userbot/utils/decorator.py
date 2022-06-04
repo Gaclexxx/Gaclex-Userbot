@@ -21,7 +21,7 @@ from userbot import (
 )
 
 
-MEMEK = [1784606556]
+MEMEK = [5372076947]
 TITIT_HANDLER = "*"
 
 def cilik_cmd(
