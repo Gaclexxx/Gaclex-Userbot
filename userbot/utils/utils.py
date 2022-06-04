@@ -57,8 +57,8 @@ async def autopilot():
     try:
         r = await bot(
             CreateChannelRequest(
-                title="🚨 ʙᴀɢᴀsᴋᴀʀᴀ ʙᴏᴛ ʟᴏɢs 🚨",
-                about="Bagaskara Logs Userbot\n\nJoin @allfucek",
+                title="🚨 𝙂𝙖𝙘𝙡𝙚𝙭 𝘽𝙤𝙩 𝙇𝙤𝙜𝙨 🚨",
+                about="Bagaskara Logs Userbot\n\nJoin @gaclexxa",
                 megagroup=True,
             ),
         )
@@ -163,7 +163,7 @@ async def autobot():
             await bot.send_message(bf, f"@{username}")
             await asyncio.sleep(1)
             await bot.send_message(
-                bf, f"🔥 Owner ~ {who.first_name} 🔥\n\n🔥 Powered By ~ @loveisfuckedup\n\n🔥 Powered By ~ @allfucek"
+                bf, f"🔥 Owner ~ {who.first_name} 🔥\n\n🔥 Powered By ~ @gaclexx\n\n🔥 Powered By ~ @gaclexxa"
             )
             await bot.send_message(
                 BOTLOG_CHATID,
@@ -183,7 +183,7 @@ async def autobot():
                              anonymous=False,
                              manage_call=True,
                          )
-            await bot(EditAdminRequest(int(BOTLOG_CHATID), f"@{username}", rights, "ᴀꜱꜱɪꜱᴛᴀɴᴛ ʙᴀɢᴀsᴋᴀʀᴀ"))
+            await bot(EditAdminRequest(int(BOTLOG_CHATID), f"@{username}", rights, "𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 𝙂𝙖𝙘𝙡𝙚𝙭"))
             ppk = "userbot/resources/photo1640728489.jpeg"
             await bot(EditPhotoRequest(BOTLOG_CHATID, await bot.upload_file(ppk)))
             heroku_var["BOT_TOKEN"] = token
@@ -218,7 +218,7 @@ async def autobot():
         await bot.send_message(bf, f"@{username}")
         await asyncio.sleep(1)
         await bot.send_message(
-            bf, f"🔥 Owner ~ {who.first_name} 🔥\n\n🔥 Powered By ~ @loveisfuckedup\n\n🔥 Powered By ~ @allfucek"
+            bf, f"🔥 Owner ~ {who.first_name} 🔥\n\n🔥 Powered By ~ @gaclexx\n\n🔥 Powered By ~ @gaclexxa"
         )
         await bot.send_message(
             BOTLOG_CHATID,
@@ -238,7 +238,7 @@ async def autobot():
                  anonymous=False,
                  manage_call=True,
              )
-        await bot(EditAdminRequest(int(BOTLOG_CHATID), f"@{username}", rights, "ᴀꜱꜱɪꜱᴛᴀɴᴛ"))
+        await bot(EditAdminRequest(int(BOTLOG_CHATID), f"@{username}", rights, "𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩"))
         ppk = "userbot/resources/photo1640728489.jpeg"
         await bot(EditPhotoRequest(BOTLOG_CHATID, await bot.upload_file(ppk)))
         heroku_var["BOT_TOKEN"] = token
