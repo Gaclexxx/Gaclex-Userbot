@@ -29,16 +29,16 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 
 ## DEPLOY TO HEROKU 💜
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ybgskr12/Bagaskara-Userbot2">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Gaclexxx/Gaclex-Userbot">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-DE1EFB?style=flat&logo=heroku" width="250" height="38.60" />
 </a></p>
 
 <h4> Generate Session via replit: </h4>    
-<p><a href="https://replit.com/@ybgskr12/Bagas-String"><img src="https://img.shields.io/badge/String%20Via%20Replit-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@gaclexxx/Gaclex-String"><img src="https://img.shields.io/badge/String%20Via%20Replit-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 
 <h4> Generate Session via Telegram Bagaskara String Bot: </h4>    
-<p><a href="https://t.me/string_bagasbot"><img src="https://img.shields.io/badge/String%20Bagaskara%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/gaclexstringbot"><img src="https://img.shields.io/badge/Gaclex%20String%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <details>
     <summary> <b>Update and support</b></summary><br/>
