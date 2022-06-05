@@ -43,8 +43,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <details>
     <summary> <b>Update and support</b></summary><br/>
 
-<a href="https://t.me/gaclexxa"><img src="https://img.shields.io/badge/Join-Channel%20Updates-purple.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/gaclexx"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gaclexx"><img src="https://img.shields.io/badge/Join-Channel%20Updates-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gaclexxa"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
 
 <details>
