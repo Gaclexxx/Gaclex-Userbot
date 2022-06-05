@@ -1,12 +1,12 @@
-<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">GACLEX-USERBOT<img src="./resources/GeezFire.gif" width="35px"></h1>
+<h1 align="center" >GACLEX-USERBOT
 
    </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://telegra.ph/file/ead40335304993e83849e.jpg">
 </p>
 
-Bagaskara-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Gaclex-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -19,12 +19,6 @@ Bot ini dimaksudkan untuk bersenang-senang sekaligus membantu Anda
 mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ```
-
-
-## DEPLOY TO BOT HEROKU DI TELEGRAM ❤️
- <p align="center"><a href="https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=eWJnc2tyMTIvQmFnYXNrYXJhLVVzZXJib3QyIEJhZ2Fza2FyYS1Vc2VyYm90">
-<img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Heroku-DE1EFB?style=flat&logo=heroku" width="250" height="38.60" />
-</a></p>
 
 
 
