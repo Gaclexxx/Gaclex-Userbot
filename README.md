@@ -26,11 +26,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Gaclexxx/Gaclex-Userbot">
 <img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
-<h4> Generate Session via replit: </h4>    
-<p><a href="https://replit.com/@gaclexxx/Gaclex-String"><img src="https://img.shields.io/badge/String%20Via%20Replit-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
-
-<h4> Generate Session via Telegram Bagaskara String Bot: </h4>    
+<h4> Generate Session via Telegram Gaclex String Bot: </h4>    
 <p><a href="https://t.me/gaclexstringbot"><img src="https://img.shields.io/badge/Gaclex%20String%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <details>
