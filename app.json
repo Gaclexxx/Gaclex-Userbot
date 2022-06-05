@@ -1,9 +1,9 @@
 {
-  "name": "Bagaskara-Userbot",
-  "description": "[Bagaskara-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/63267910585608a6302b0.jpg",
-  "keywords": ["telegram", "userbot", "Bagaskara-Userbot", "modular", "python"],
-  "repository": "https://github.com/ybgskr12/Bagaskara-Userbot",
+  "name": "Gaclex-Userbot",
+  "description": "[Gaclex-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/file/ead40335304993e83849e.jpg",
+  "keywords": ["telegram", "userbot", "Gaclex-Userbot", "modular", "python"],
+  "repository": "https://github.com/Gaclexxx/Gaclex-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -15,7 +15,7 @@
       "required": true 
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/allfucek » Lalu ketik #string",
+      "description": "Dapatkan String Session di Grup » https://t.me/gaclexxa » Lalu ketik #string",
       "required": true
     },
     "HEROKU_APP_NAME": {
