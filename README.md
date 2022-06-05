@@ -1,16 +1,9 @@
-<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">BAGASKARA-USERBOT<img src="./resources/GeezFire.gif" width="35px"></h1>
-<p align="center">
-    <img alt="BAGASKARA VERSION" src="https://img.shields.io/badge/BAGASKARA%20VERSION-4.+-brightgreen"/>
-    <img alt="BUILD IN" src="https://img.shields.io/badge/BUILD%20-Last Day-brightgreen"/>
-           <a href="https://travis-ci.com/ybgskr12/Bagaskara-Userbot2.svg?branch=main" /></a>
-    <a href="https://github.com/ybgskr12/Bagaskara-Userbot2/network/members"> <img src="https://img.shields.io/github/forks/ybgskr12/Bagaskara-Userbot2?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/ybgskr12/Bagaskara-Userbot2"> <img src="https://img.shields.io/github/repo-size/ybgskr12/Bagaskara-Userbot2?logo=github&style=for-the-badge" /></a>
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=for-the-badge" /></a>
-    <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.0-blue?style=for-the-badge&logo=appveyor"/>
+<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">GACLEX-USERBOT<img src="./resources/GeezFire.gif" width="35px"></h1>
+
    </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/63267910585608a6302b0.jpg">
+  <img src="">
 </p>
 
 Bagaskara-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
@@ -50,14 +43,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <details>
     <summary> <b>Update and support</b></summary><br/>
 
-<a href="https://t.me/allfucek"><img src="https://img.shields.io/badge/Join-Channel%20Updates-purple.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/loveisfuckedup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gaclexxa"><img src="https://img.shields.io/badge/Join-Channel%20Updates-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gaclexx"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
 
 <details>
     <summary>&#127942 <b>Credits</b></summary><br/>
 
 #### Special Thanks To ❤️
+*   [Sanssss](https://t.me/gaclexxx) : Cuma Ngikut Doang 
 *   [Bagaskara](https://t.me/ybgskr) : Bagaskara Ganteng
 *   [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
 *   [RaphielGang](https://github.com/RaphielGang) : Paperplane
