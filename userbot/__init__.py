@@ -248,7 +248,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "BagaskaraUserbot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "GaclexUserbot")
 
 # Bot version
 BOT_VER = os.environ.get("BOT_VER", "1.1")
@@ -477,7 +477,7 @@ with bot:
                 Button.inline("VC-Plugin 📺", data="cilik_inline"),
             ],
             [
-                Button.url("📣 Updates", f"https://t.me/loveisfuckedup"),
+                Button.url("📣 Updates", f"https://t.me/gaclexx"),
                 Button.url("Settings 🛠️ ", f"t.me/{botusername}"),
             ],
             [Button.inline("🗑️ Close", data="close")],
@@ -565,7 +565,7 @@ with bot:
                 current_page_number = int(looters)
                 buttons = paginate_help(
                     current_page_number, dugmeler, "helpme")
-                text = f"**🕹️ Bagaskara-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**",
+                text = f"**🕹️ Gaclex-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**",
                 await event.edit(
                     text,
                     file=ciliklogo,
@@ -584,7 +584,7 @@ with bot:
         async def on_plug_in_callback_query_handler(event):
             if event.query.user_id == uid or event.query.user_id in SUDO_USERS:
                 buttons = paginate_help(0, dugmeler, "helpme")
-                text = f"**🕹️ Bagaskara-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**"
+                text = f"**🕹️ Gaclex-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**"
                 await event.edit(
                     text,
                     file=ciliklogo,
@@ -605,28 +605,28 @@ with bot:
                 result = await event.builder.photo(
                     file=ciliklogo,
                     link_preview=False,
-                    text = f"**🕹️ Bagaskara-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**",
+                    text = f"**🕹️ Gaclex-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**",
                     buttons=main_help_button,
                 )
             elif query.startswith("repo"):
                 result = builder.article(
                     title="Repository",
-                    description="Repository Bagaskara - Userbot",
-                    url="https://t.me/allfucek",
+                    description="Repository Gaclex - Userbot",
+                    url="https://t.me/gaclexxa",
                     thumb=InputWebDocument(
                         ALIVE_LOGO,
                         0,
                         "image/jpeg",
                         []),
-                    text="**Bagaskara-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✪ **Owner Repo :** [ʙᴧɢᴧsҡᴧʀᴧ </>](https://t.me/ybgskr)\n✪ **Support :** @allfucek\n✪ **Repository :** [Bagaskara-Userbot](https://github.com/ybgskr12/Bagaskara-Userbot2)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Gaclex-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✪ **Owner Repo :** [𝚂𝚊𝚗𝚜𝚜𝚜𝚜 </>](https://t.me/gaclexxx)\n✪ **Support :** @gaclexxa\n✪ **Repository :** [Gaclex-Userbot](https://github.com/Gaclexxx/Gaclex-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
                                 "ɢʀᴏᴜᴘ",
-                                "https://t.me/allfucek"),
+                                "https://t.me/gaclexxa"),
                             custom.Button.url(
                                 "ʀᴇᴘᴏ",
-                                "https://github.com/ybgskr12/Bagaskara-Userbot2"),
+                                "https://github.com/Gaclexxx/Gaclex-Userbot"),
                         ],
                     ],
                     link_preview=False,
@@ -665,23 +665,23 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    title="✨ Bagaskara-Userbot ✨",
-                    description="Bagaskara - Userbot | Telethon",
-                    url="https://t.me/allfucek",
+                    title="✨ Gaclex-Userbot ✨",
+                    description="Gaclex - Userbot | Telethon",
+                    url="https://t.me/gaclexxa",
                     thumb=InputWebDocument(
                         ALIVE_LOGO,
                         0,
                         "image/jpeg",
                         []),
-                    text=f"**Bagaskara-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✪ **Owner :** [{user.first_name}](tg://user?id={user.id})\n✪ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Updates:** @loveisfuckedup\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**Gaclex-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✪ **Owner :** [{user.first_name}](tg://user?id={user.id})\n✪ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Updates:** @gaclexx\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
                                 "Groups",
-                                "https://t.me/allfucek"),
+                                "https://t.me/gaclexxa"),
                             custom.Button.url(
                                 "Repo",
-                                "https://github.com/ybgskr12/Bagaskara-Userbot2"),
+                                "https://github.com/Gaclexxx/Gaclex-Userbot"),
                         ],
                     ],
                     link_preview=False,
@@ -730,7 +730,7 @@ with bot:
             if event.query.user_id == uid or event.query.user_id in SUDO_USERS:  # @Kyy-Userbot
                 # https://t.me/TelethonChat/115200                               # @Fliks-Userbot    
                 text = (
-                    f"**🕹️ Bagaskara-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**")
+                    f"**🕹️ Gaclex-Userbot Inline Menu 🕹️**\n\n🧸 **Owner :** [{user.first_name}](tg://user?id={user.id})\n🔮 **Jumlah :** `{len(dugmeler)}` **Modules**")
                 await event.edit(
                     text,
                     file=ciliklogo,
