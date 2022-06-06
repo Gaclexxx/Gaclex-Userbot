@@ -20,8 +20,11 @@ mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ```
 
+## DEPLOY DI BOT HEROKU TELEGRAM 💜
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=R2FjbGV4eHgvR2FjbGV4LVVzZXJib3QgZ2FjbGV4">
+<img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
-
+   
 ## DEPLOY TO HEROKU 💜
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Gaclexxx/Gaclex-Userbot">
 <img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
